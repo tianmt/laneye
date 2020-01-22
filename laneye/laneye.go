@@ -1,0 +1,6 @@
+package laneye
+
+func laneye(){
+}
+
+
